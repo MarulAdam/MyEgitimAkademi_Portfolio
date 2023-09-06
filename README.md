@@ -1,7 +1,7 @@
 # Description
 ASP.NET Core MVC 5 tabanlı kişisel bir web uygulaması, yöneticilerin tüm içeriği kolayca denetleyebildiği ve yönetebildiği etkileyici bir dinamik yönetim paneline sahiptir. Aynı zamanda, web sitesindeki her veri de dinamik olarak listelenmektedir.
 # Tecnologies
-* Asp net Mvc
+* Asp.Ner MVC
 * Db First
 * Entity FrameWork
 * Sql Server
