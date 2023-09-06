@@ -6,13 +6,13 @@ ASP.NET Core MVC 5 tabanlı kişisel bir web uygulaması, yöneticilerin tüm i�
 * Entity FrameWork
 * Sql Server
 
-![1](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/c2df6b15-8fd4-4ace-9e4c-fff205e9c66f)
-![2](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/2c81b480-7fc9-48d0-9b83-8273987d27f5)
-![3](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/3ff759a9-6f1b-4142-bd6f-f7e8f77655b9)
-![4](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/6bee1b0f-38aa-48e9-a8c8-bbc402fbc423)
-![5](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/f9731c91-97e2-49a9-b344-b4d1a2e2e621)
-![6](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/36a584da-5b44-42f0-a3cc-2d3de5cded3c)
-![7](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/cf6c09ad-0b2c-4330-93d0-7f3343e24ab8)
+![1](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/b6a7532e-4675-4b6f-8b66-2584ed7eaaf4)
+![2](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/f2790801-46af-4d0d-8b7a-a1b76e27fd53)
+![3](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/d14a7d94-1c42-4245-b8bf-cc6ff60f7d3d)
+![4](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/566781b2-5343-457c-8d45-b04edab70bc4)
+![5](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/6d883842-c272-494d-96d7-9820cfc64723)
+![6](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/fa1f08ce-2822-4ef3-a021-fe4aa593de8b)
+![7](https://github.com/MarulAdam/MyEgitimAkademi_Portfolio/assets/80632086/71529a0c-4d75-455a-99ed-0c6e62d8ca12)
 
   # Instalation
   Öncelikle projeyi klonlayın
